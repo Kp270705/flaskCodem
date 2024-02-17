@@ -1,4 +1,4 @@
-# For github:- 
+# For creating a new version control (on github):- 
 
 # git config --global user.name "Kunal Pathak"
 # git config --global user.email "kunalpathak4774@gmail.com"
